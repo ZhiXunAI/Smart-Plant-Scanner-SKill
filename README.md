@@ -1,12 +1,3 @@
----
-name: plant-identifier
-version: "1.3.2"
-description: 智能识别野草野花等绿植，判断危险性和提供种植养护知识。整合全球最全的权威植物数据库（中国植物志、World Flora Online、IPNI、Kew、Tropicos、GBIF、USDA等），支持图像识别、危险植物检测、植物病理学诊断、生理学分析及多方数据对比。涵盖分类学、形态学、物候学、生态学、地理分布、保护状况、经济用途等8大专业维度。
-dependency:
-  python:
-    - requests==2.32.3
-    - beautifulsoup4==4.12.3
----
 
 # 智能植物识别 v1.3.2
 
