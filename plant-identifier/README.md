@@ -1,4 +1,4 @@
-# 🌿 plant-identifier · 智能植物识别
+# plant-identifier · 智能植物识别
 
 > 上传一张照片，识别野草野花绿植，判断危险性，并给出可执行的养护方案。
 
